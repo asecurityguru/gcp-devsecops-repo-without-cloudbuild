@@ -1,6 +1,5 @@
 # Java Reachability Playground Modified by ASecurityGuru For GCP DevSecOps
 
-# Updated on 28th April, 2022 - Added GitHub Workflow file
 
 This is an intentionally vulnerable application. It was purposely designed to demonstrate the capabilities of Snyk's Reachable
 Vulnerabilities feature and includes both a "Reachable" vulnerability (with a direct data flow to the vulnerable function) and a "Potentially Reachable" vulnerability (where only partial data exists for determining reachability).
